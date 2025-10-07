@@ -32,7 +32,7 @@ const Hero = () => {
           className="bg-primary hover:bg-primary/90 text-primary-foreground font-bold text-lg px-8 py-6 rounded-full glow-cyan transition-all hover:scale-105"
           asChild
         >
-          <a href="https://moonbound.com" target="_blank" rel="noopener noreferrer">
+          <a href="https://app.moonbound.gg/token/0xCB8946e0a9A27fb741A05E0E40e469d2aC8ba820" target="_blank" rel="noopener noreferrer">
             Buy on Moonbound
           </a>
         </Button>

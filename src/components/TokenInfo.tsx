@@ -4,7 +4,7 @@ import { Button } from "@/components/ui/button";
 
 const TokenInfo = () => {
   const [copied, setCopied] = useState(false);
-  const contractAddress = "0x0000000000000000000000000000000000000000"; // Replace with actual contract address
+  const contractAddress = "0xCB8946e0a9A27fb741A05E0E40e469d2aC8ba820"; // MoonCat contract address
   
   const features = [
     { label: "Total Supply", value: "1,000,000,000 $MOONCAT" },
