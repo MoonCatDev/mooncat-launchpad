@@ -18,7 +18,7 @@ const Community = () => {
             className="bg-secondary hover:bg-secondary/90 text-secondary-foreground font-bold text-lg px-8 py-6 rounded-full glow-purple transition-all hover:scale-105"
             asChild
           >
-            <a href="https://twitter.com" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2">
+            <a href="https://x.com/MoonCatKAS" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2">
               <Twitter className="w-5 h-5" />
               Follow on X
             </a>
